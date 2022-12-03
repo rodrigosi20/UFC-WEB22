@@ -1,0 +1,22 @@
+{
+    "estudantes": [
+      {
+        "name": "Rodrigo Carvalho",
+        "course": "SI",
+        "ira": "7.5",
+        "id": 1
+      },
+      {
+        "name": "Seu Zé",
+        "course": "SI",
+        "ira": "9",
+        "id": 2
+      },
+      {
+        "name": "Maria Bonita",
+        "course": "CC",
+        "ira": "9.5",
+        "id": 3
+      }
+    ]
+  }
